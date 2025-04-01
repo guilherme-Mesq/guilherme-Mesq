@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=000000&background=F7F7F7&center=true&vCenter=true&repeat=false&width=435&height=56&lines=Back-End+Developer)
 
-[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/guilherme-mesquita-808129226)
+[![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/guilherme-mesq/)
 
 Me chamo Guilherme Mesquita, tenho 21 anos. Concluí o curso técnico em Desenvolvimento de Sistemas pela ETEC. Recentemente em Dezembro de 2024, me formei em Análise e Desenvolvimento de Sistemas na FATEC. Sou apaixonado por tecnologia e jogos de video-game, atualmente amplio meu conhecimento cada vez mais no dia a dia com cursos onlines em plataformas como Udemy e Alura.
 
