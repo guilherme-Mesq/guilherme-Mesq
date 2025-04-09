@@ -50,6 +50,15 @@ Me chamo Guilherme Mesquita, tenho 21 anos. Concluí o curso técnico em Desenvo
 
 <img 
     align="left" 
+    alt="Salesforce"
+    title="Salesforce" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"       
+/>
+
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
